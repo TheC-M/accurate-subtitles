@@ -3,6 +3,10 @@
 <h1 style="font-size: 2.2em; margin-bottom: 0;">🎯 Accurate Subtitles</h1>
 <h3 style="margin-top: 5px; color: #666;">Improving Speech-to-Text Accuracy Through Audio Enhancement, Diarisation, and Context</h3>
 
+
+</div>
+
+
 </div>
 
 ---
@@ -11,6 +15,11 @@
 
 | <strong>Supervisor:</strong> Dr. Haoyi Wang |
 |---------------------------------------------|
+
+<p style="margin: 4px 0; font-style: italic; color: #444;">
+  <strong>BSc (Hons) Computer Science</strong><br>
+  COMP3000: Computing Project
+</p>
 
 </div>
 
