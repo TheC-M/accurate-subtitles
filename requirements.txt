@@ -1,0 +1,16 @@
+# Virtual environment commands:
+# Create:       python -m venv my_env
+# Activate:     my_env\Scripts\activate.bat
+# Deactivate:   deactivate
+
+# Dependency commands:
+# Update:       pip freeze > requirements.txt
+# Load (venv):  
+
+
+# Included in Python:
+# tkinter
+# os
+
+# WhisperX for ASR
+git+https://github.com/m-bain/whisperX.git
